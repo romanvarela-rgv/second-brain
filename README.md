@@ -19,6 +19,7 @@ Uso el método PARA de Tiago Forte. Cada nota va a una carpeta según qué tan c
 
 ## Por dónde empezar
 
+- Para ver todos mis proyectos, abre [`Proyectos.md`](Proyectos.md).
 - Para ver en qué ando, abre la última nota de [`Daily`](Daily).
 - Para lo más útil, revisa [`3-Resources`](3-Resources).
 - Si quieres copiar el sistema, las plantillas están en [`Templates`](Templates): nota diaria, proyecto, nota y decisión.
