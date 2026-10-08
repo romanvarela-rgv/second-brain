@@ -6,6 +6,7 @@ Mapa de todo lo que hice y hago.
 - [[romangaelvarela-online]]
 - [[ciberkiosco-punto-com]]
 - [[second-brain]]
+- [[plantilla-negocio-local]]
 
 ## Terminados
 - [[Galactic Defenders]]
